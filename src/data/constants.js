@@ -4,7 +4,7 @@ import logo from "../images/spidy logo.jpg"
 
 
 export const Bio = {
-  name: "Pradeep Ram Polaki",
+  name: "Gopi Peruri",
   roles: [
     "Frontend developer",
     "Python Developer",
