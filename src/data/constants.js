@@ -1,6 +1,7 @@
 
-import spidy from "../images/spidy.jpg"
 import logo from "../images/spidy logo.jpg"
+import img from"../images/img.jpg"
+import webp from "../images/2.webp"
 
 
 export const Bio = {
@@ -8,15 +9,15 @@ export const Bio = {
   roles: [
     "Frontend developer",
     "Python Developer",
-    "AI/ML Developer",
+    "Software Developer",
   ],
   description:
-    "Final-year B.Tech student in Artificial Intelligence and Data Science, with a flair for frontend magic, AI/ML wizardry, and Python prowess. Renowned for blending smart work with unwavering dedication, I'm ready to push the boundaries of innovation and make a mark in the tech world.",
-  github: "https://github.com/pradeep-1817",
+    "Final-year B.Tech student with a strong aptitude for full-stack development, Python programming (including libraries and APIs), and building scalable solutions. Known for combining smart work with relentless dedication, I'm eager to push the limits of innovation and make a lasting impact in the tech world.",
+  github: "https://github.com/GOPIPERURI2401",
   resume:
-    "https://drive.google.com/file/d/17bcOztBUQ9vF-e0CEb0ZYB-ljPB1qReu/view?usp=drive_link",
-  linkedin: "linkedin.com/in/polaki-pradeep-ram-591956293/",
-  insta: "https://www.instagram.com/_.pradeepram._/",
+    "https://drive.google.com/file/d/1X3HAAigNL8ioNtn_6n7OlGaCh2D4BB8k/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/gopi-peruri-a75703302",
+  insta: "https://www.instagram.com/urs_gopi?igsh=MTByMDY0eGpzOGphZA==",
 };
 
 export const skills = [
@@ -89,11 +90,7 @@ export const skills = [
         image:
           "https://cdn-icons-png.freepik.com/512/15237/15237417.png?ga=GA1.1.119099582.1712822957",
       },
-      {
-        name: "ML models",
-        image:
-          "https://cdn-icons-png.freepik.com/256/2172/2172891.png?semt=ais_hybrid",
-      },
+     
     ],
   },
   {
@@ -122,7 +119,7 @@ export const skills = [
       {
         name: "ChatGPT",
         image:
-            "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png"
+            "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/firefox-browser-icon.png"
       }
     ],
   },
@@ -161,20 +158,20 @@ export const education = [
   {
     id: 1,
     img: "https://media.licdn.com/dms/image/C4D0BAQEdMKvk2YwVGw/company-logo_200_200/0/1652036458062/mount_litera_zee_school___india_logo?e=1728518400&v=beta&t=ZThJrRZMMueC-ghuUuyixB6j_3rLhedmZoBcgIWO09E",
-    school: "Narayana Jr college",
+    school: "Ap model college",
     date: "2019 - 2021",
     grade: "92.9%",
-    desc: "I completed my class 12 high school education at Narayana Jr college, where I studied M P c.",
+    desc: "I completed my class 12 high school education at AP Model college, where I studied M P c.",
     degree: "XII, M P C",
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEdMKvk2YwVGw/company-logo_200_200/0/1652036458062/mount_litera_zee_school___india_logo?e=1728518400&v=beta&t=ZThJrRZMMueC-ghuUuyixB6j_3rLhedmZoBcgIWO09E",
+    img: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/firefox-browser-icon.png",
     
-    school: "Bharathi E M High School",
+    school: "Govt E M High School",
     date: "Apr 2018 - Apr 2019",
     grade: "91.5%",
-    desc: "I completed my class 10 education at Bharathi E M High School.",
+    desc: "I completed my class 10 education at Govt E M High School.",
     degree: "SSC X",
   },
 ];
@@ -182,7 +179,7 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "YET TO COME Sentimental analysis",
+    title: "YET TO COME Mwchine learning model",
     date: "---",
     description:
       "Will be updated when fully developed currently under process.",
@@ -195,15 +192,15 @@ export const projects = [
       "API",
       "OpenAI"
     ],
-    category: "Machine Learning",
+    category: "Wed Development",
     github: "",
     webapp: "",
     member: [
       {
         name: "Meee",
-        img: spidy,
-        linkedin: "linkedin.com/in/polaki-pradeep-ram-591956293/",
-        github: "https://github.com/pradeep-1817/",
+        img: img,
+        linkedin: "https://www.linkedin.com/in/gopi-peruri-a75703302",
+        github: "https://github.com/GOPIPERURI2401",
       }
     ],
   },
@@ -227,9 +224,9 @@ export const projects = [
     member: [
       {
         name: "Meee",
-        img: spidy,
-        linkedin: "linkedin.com/in/polaki-pradeep-ram-591956293/",
-        github: "https://github.com/pradeep-1817/",
+        img: webp,
+        linkedin: "https://www.linkedin.com/in/gopi-peruri-a75703302",
+        github: "https://github.com/GOPIPERURI2401",
       }
     ],
   },

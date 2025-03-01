@@ -86,7 +86,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Pradeep Ram Polaki</Logo>
+        <Logo>Perui Gopi</Logo>
         <Nav>
           <NavLink href="#about" aria-label="About section">About</NavLink>
           <NavLink href="#skills" aria-label="Skills section">Skills</NavLink>
