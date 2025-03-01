@@ -116,11 +116,6 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
-      {
-        name: "ChatGPT",
-        image:
-            "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/firefox-browser-icon.png"
-      }
     ],
   },
 ];
@@ -129,13 +124,14 @@ export const experiences = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcKbiMxBCzK3tmdk7GrqzjSliV0oiODmFrg&s",
-    role: "Data engineer associate",
+    role: "Frontend Developer",
     company: "Blackoffer",
     date: "",
-    desc: "Contributed on AI/ML, Python and Web based projects.Worked as an intern for few months where i learned a lot on real time projects Data visualization,Ml models.",
+    desc: "Contributed on Python and Web based projects.Worked as an intern for few months where i learned lot of experiance in Front-end and back-end technologies.",
     skills: [
-      "AI",
-      "ML",
+      "React",
+      "JavaScript",
+      'Ml',
       "data visualization",
       "Python",
       "web scraping"
@@ -148,7 +144,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEdMKvk2YwVGw/company-logo_200_200/0/1652036458062/mount_litera_zee_school___india_logo?e=1728518400&v=beta&t=ZThJrRZMMueC-ghuUuyixB6j_3rLhedmZoBcgIWO09E",
+    img: "https://allegiance-educare.in/storage/uploads/colleges/thumb/250_250_1479541776RIT.jpg",
     school: "Raghu Institute of technology",
     date: "2021 - 2025",
     grade: "8.15 CGPA",
@@ -157,7 +153,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEdMKvk2YwVGw/company-logo_200_200/0/1652036458062/mount_litera_zee_school___india_logo?e=1728518400&v=beta&t=ZThJrRZMMueC-ghuUuyixB6j_3rLhedmZoBcgIWO09E",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQtarOhPk1TmRs7jKnjvdRf6fA6ZKy36LXA&s",
     school: "Ap model college",
     date: "2019 - 2021",
     grade: "92.9%",
@@ -166,7 +162,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/firefox-browser-icon.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg",
     
     school: "Govt E M High School",
     date: "Apr 2018 - Apr 2019",
